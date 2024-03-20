@@ -1,4 +1,5 @@
 import React from "react";
+require("dotenv").config();
 
 export default function RootLayout({
   children,
