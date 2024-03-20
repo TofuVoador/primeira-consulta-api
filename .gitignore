@@ -1,0 +1,17 @@
+# Ignore Node.js build artifacts
+node_modules/
+
+# Ignore Next.js build artifacts
+/.next/
+
+# Ignore environment variables file
+.env
+
+# Ignore OS and editor-specific files
+.DS_Store
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

@@ -1,0 +1,32 @@
+{
+  "name": "primeira-consulta-api",
+  "version": "1.0.0",
+  "description": "Minha Primeira Consulta em API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TofuVoador/primeira-consulta-api.git"
+  },
+  "author": "Gustavo Kumagai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TofuVoador/primeira-consulta-api/issues"
+  },
+  "homepage": "https://github.com/TofuVoador/primeira-consulta-api#readme",
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.67",
+    "typescript": "5.4.2"
+  }
+}
