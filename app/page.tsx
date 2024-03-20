@@ -5,7 +5,7 @@ import Users from "./api/users";
 export default function Page() {
   return (
     <main>
-      <h1>Hello, Next.js!</h1>
+      <h1>Usuários!</h1>
       <Users />
     </main>
   );
